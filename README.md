@@ -1,4 +1,4 @@
-### This project analyzes attractions and sights in European cities and assesses whether a city pass is worth buying depending on the interests of the traveler. 
+### This project analyzes attractions and sights in European cities and assesses whether a city pass is worth buying depending on the interests of the traveler. On hold as of July 2022 as the amount of web scraping required (list of sights, prices of sights) and projected difficulty of keeping each city up to date may not make continuing work worthwhile. 
 
 ### The plan for this project is as follows:
 
